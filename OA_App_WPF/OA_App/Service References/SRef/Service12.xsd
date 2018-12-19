@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/wcf_itp_sa" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/wcf_itp_sa" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfProject_Table">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Project_Table" nillable="true" type="tns:Project_Table" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfProject_Table" nillable="true" type="tns:ArrayOfProject_Table" />
+  <xs:complexType name="Project_Table">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Emp_Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Proj_Des" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Proj_Edate" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Proj_Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Proj_Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Proj_Sdate" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Proj_Status" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Project_Table" nillable="true" type="tns:Project_Table" />
+  <xs:complexType name="ArrayOfEmployee_Table">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Employee_Table" nillable="true" type="tns:Employee_Table" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfEmployee_Table" nillable="true" type="tns:ArrayOfEmployee_Table" />
+  <xs:complexType name="Employee_Table">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Contact" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Emp_Id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Emp_Name" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Employee_Table" nillable="true" type="tns:Employee_Table" />
+</xs:schema>

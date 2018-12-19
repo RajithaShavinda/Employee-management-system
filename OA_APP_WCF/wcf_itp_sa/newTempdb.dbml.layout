@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="newTempdb">
+  <DataContextMoniker Name="/newTempdbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="536af109-114c-4d46-8a9e-b96ca0825b64" absoluteBounds="2.875, 1.125, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/newTempdbDataContext/Item_IT13020040_tb" />
+      <nestedChildShapes>
+        <elementListCompartment Id="41664243-7521-488a-b45e-977a1294ea29" absoluteBounds="2.8899999999999997, 1.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

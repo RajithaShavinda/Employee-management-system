@@ -1,0 +1,376 @@
+E:\WorkFiles1\OA_App\OA_App\OA_App\bin\Debug\OA_App.exe.config
+E:\WorkFiles1\OA_App\OA_App\OA_App\bin\Debug\OA_App.exe
+E:\WorkFiles1\OA_App\OA_App\OA_App\bin\Debug\OA_App.pdb
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\Add_Project.baml
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\Detail_Window.baml
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\Employee_Stats_Window.baml
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\Employee_Window.baml
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\MainWindow.baml
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\Project_Window.baml
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\Add_Project.g.cs
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\Detail_Window.g.cs
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\Employee_Stats_Window.g.cs
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\Employee_Window.g.cs
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\MainWindow.g.cs
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\Project_Window.g.cs
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\App.g.cs
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\OA_App_MarkupCompile.cache
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\OA_App.g.resources
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\OA_App.Properties.Resources.resources
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\OA_Applast.csproj.GenerateResource.Cache
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\OA_App.exe
+E:\WorkFiles1\OA_App\OA_App\OA_App\obj\Debug\OA_App.pdb
+E:\@@\WorkFiles2\OA_App\OA_App\OA_App\bin\Debug\OA_App.exe.config
+E:\@@\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\OA_App.exe
+E:\@@\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\OA_App.pdb
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\bin\Debug\OA_App.exe.config
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\OA_App.exe
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\OA_App.pdb
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\bin\Debug\OA_App.exe
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\bin\Debug\OA_App.pdb
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\OA_Applast.csprojResolveAssemblyReference.cache
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\Add_Project.baml
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\Detail_Window.baml
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\Employee_Stats_Window.baml
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\Employee_Window.baml
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\MainWindow.baml
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\Project_Window.baml
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\Add_Project.g.cs
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\Detail_Window.g.cs
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\Employee_Stats_Window.g.cs
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\Employee_Window.g.cs
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\MainWindow.g.cs
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\Project_Window.g.cs
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\App.g.cs
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\OA_App_MarkupCompile.cache
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\OA_App.g.resources
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\OA_App.Properties.Resources.resources
+C:\Users\it15281142\Desktop\WorkFiles2\OA_App\OA_App\OA_App\obj\Debug\OA_Applast.csproj.GenerateResource.Cache
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\bin\Debug\OA_App.exe.config
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App.exe
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App.pdb
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\bin\Debug\OA_App.exe
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\bin\Debug\OA_App.pdb
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_Applast.csprojResolveAssemblyReference.cache
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Add_Project.baml
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Detail_Window.baml
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Employee_Stats_Window.baml
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Employee_Window.baml
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\MainWindow.baml
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Project_Window.baml
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Add_Project.g.cs
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Detail_Window.g.cs
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Employee_Stats_Window.g.cs
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Employee_Window.g.cs
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\MainWindow.g.cs
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Project_Window.g.cs
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\App.g.cs
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App_MarkupCompile.cache
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App.g.resources
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App.Properties.Resources.resources
+C:\Users\IT15277046\Desktop\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_Applast.csproj.GenerateResource.Cache
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\bin\Debug\OA_App.exe.config
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App.exe
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App.pdb
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\bin\Debug\OA_App.exe
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\bin\Debug\OA_App.pdb
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_Applast.csprojResolveAssemblyReference.cache
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Add_Project.baml
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Detail_Window.baml
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Employee_Stats_Window.baml
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Employee_Window.baml
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\MainWindow.baml
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Project_Window.baml
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Add_Project.g.cs
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Detail_Window.g.cs
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Employee_Stats_Window.g.cs
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Employee_Window.g.cs
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\MainWindow.g.cs
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Project_Window.g.cs
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\App.g.cs
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App_MarkupCompile.cache
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App.g.resources
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App.Properties.Resources.resources
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_Applast.csproj.GenerateResource.Cache
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\bin\Debug\OA_App.exe.config
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App.exe
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App.pdb
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\bin\Debug\OA_App.exe
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\bin\Debug\OA_App.pdb
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_Applast.csprojResolveAssemblyReference.cache
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Add_Project.baml
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Detail_Window.baml
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Employee_Stats_Window.baml
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Employee_Window.baml
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\MainWindow.baml
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Project_Window.baml
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Add_Project.g.cs
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Detail_Window.g.cs
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Employee_Stats_Window.g.cs
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Employee_Window.g.cs
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\MainWindow.g.cs
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Project_Window.g.cs
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\App.g.cs
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App_MarkupCompile.cache
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App.g.resources
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App.Properties.Resources.resources
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_Applast.csproj.GenerateResource.Cache
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\bin\Debug\OA_App.exe.config
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App.exe
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App.pdb
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\bin\Debug\OA_App.exe
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\bin\Debug\OA_App.pdb
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_Applast.csprojResolveAssemblyReference.cache
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Add_Project.baml
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Detail_Window.baml
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Employee_Stats_Window.baml
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Employee_Window.baml
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\MainWindow.baml
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Project_Window.baml
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Add_Project.g.cs
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Detail_Window.g.cs
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Employee_Stats_Window.g.cs
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Employee_Window.g.cs
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\MainWindow.g.cs
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\Project_Window.g.cs
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\App.g.cs
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App_MarkupCompile.cache
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App.g.resources
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_App.Properties.Resources.resources
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\OA_App\OA_App\OA_App\obj\Debug\OA_Applast.csproj.GenerateResource.Cache
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\bin\Debug\OA_App.exe.config
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\OA_App.exe
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\OA_App.pdb
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\OA_Applast.csprojResolveAssemblyReference.cache
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\Add_Project.baml
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\Detail_Window.baml
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\Employee_Stats_Window.baml
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\Employee_Window.baml
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\MainWindow.baml
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\Project_Window.baml
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\Add_Project.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\Detail_Window.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\Employee_Stats_Window.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\Employee_Window.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\MainWindow.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\Project_Window.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\App.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\OA_App_MarkupCompile.cache
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\OA_App.g.resources
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\OA_App.Properties.Resources.resources
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\obj\Debug\OA_Applast.csproj.GenerateResource.Cache
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\bin\Debug\OA_App.exe
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\OA_App\OA_App\bin\Debug\OA_App.pdb
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 001\OA_App\OA_App\bin\Debug\OA_App.exe.config
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\OA_App.exe
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\OA_App.pdb
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\bin\Debug\OA_App.exe.config
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\OA_App.exe
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\OA_App.pdb
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\bin\Debug\OA_App.exe
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\bin\Debug\OA_App.pdb
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\OA_Applast.csprojResolveAssemblyReference.cache
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\Add_Project.baml
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\Detail_Window.baml
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\Employee_Stats_Window.baml
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\Employee_Window.baml
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\MainWindow.baml
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\Project_Window.baml
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\Add_Project.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\Detail_Window.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\Employee_Stats_Window.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\Employee_Window.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\MainWindow.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\Project_Window.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\App.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\OA_App_MarkupCompile.cache
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\OA_App.g.resources
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\OA_App.Properties.Resources.resources
+C:\Users\it15277046\Desktop\ITP_Project 001\OA_App\OA_App\obj\Debug\OA_Applast.csproj.GenerateResource.Cache
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\bin\Debug\OA_App.exe.config
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\OA_App.exe
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\OA_App.pdb
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\bin\Debug\OA_App.exe
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\bin\Debug\OA_App.pdb
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\OA_Applast.csprojResolveAssemblyReference.cache
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\Add_Project.baml
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\Detail_Window.baml
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\Employee_Stats_Window.baml
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\Employee_Window.baml
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\MainWindow.baml
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\Project_Window.baml
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\Add_Project.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\Detail_Window.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\Employee_Stats_Window.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\Employee_Window.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\MainWindow.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\Project_Window.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\App.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\OA_App_MarkupCompile.cache
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\OA_App.g.resources
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\OA_App.Properties.Resources.resources
+C:\Users\it15277046\Desktop\ITP_Project 002\OA_App\OA_App\obj\Debug\OA_Applast.csproj.GenerateResource.Cache
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\bin\Debug\OA_App.exe.config
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\OA_App.exe
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\OA_App.pdb
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\bin\Debug\OA_App.exe
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\bin\Debug\OA_App.pdb
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\OA_Applast.csprojResolveAssemblyReference.cache
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Add_Project.baml
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Detail_Window.baml
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Employee_Stats_Window.baml
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Employee_Window.baml
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\MainWindow.baml
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Project_Window.baml
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Add_Project.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Detail_Window.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Employee_Stats_Window.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Employee_Window.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\MainWindow.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Project_Window.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\App.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\OA_App_MarkupCompile.cache
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\OA_App.g.resources
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\OA_App.Properties.Resources.resources
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\OA_Applast.csproj.GenerateResource.Cache
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\bin\Debug\OA_App.exe.config
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\OA_App.exe
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\OA_App.pdb
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\bin\Debug\OA_App.exe
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\bin\Debug\OA_App.pdb
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\OA_Applast.csprojResolveAssemblyReference.cache
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Add_Project.baml
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Detail_Window.baml
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Employee_Stats_Window.baml
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Employee_Window.baml
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\MainWindow.baml
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Project_Window.baml
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Add_Project.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Detail_Window.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Employee_Stats_Window.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Employee_Window.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\MainWindow.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\Project_Window.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\App.g.cs
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\OA_App_MarkupCompile.cache
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\OA_App.g.resources
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\OA_App.Properties.Resources.resources
+C:\Users\it15277046\Desktop\ITP_Project 003\OA_App\OA_App\obj\Debug\OA_Applast.csproj.GenerateResource.Cache
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\bin\Debug\OA_App.exe.config
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_App.exe
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_App.pdb
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\bin\Debug\OA_App.exe
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\bin\Debug\OA_App.pdb
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_Applast.csprojResolveAssemblyReference.cache
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\Add_Project.baml
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\Detail_Window.baml
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\Employee_Stats_Window.baml
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\Employee_Window.baml
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\MainWindow.baml
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\Project_Window.baml
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\Add_Project.g.cs
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\Detail_Window.g.cs
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\Employee_Stats_Window.g.cs
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\Employee_Window.g.cs
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\MainWindow.g.cs
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\Project_Window.g.cs
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\App.g.cs
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_App_MarkupCompile.cache
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_App.g.resources
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_App.Properties.Resources.resources
+I:\@CSWF\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_Applast.csproj.GenerateResource.Cache
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\bin\Debug\OA_App.exe.config
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_App.exe
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_App.pdb
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\bin\Debug\OA_App.exe
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\bin\Debug\OA_App.pdb
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_Applast.csprojResolveAssemblyReference.cache
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\Add_Project.baml
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\Detail_Window.baml
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\Employee_Stats_Window.baml
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\Employee_Window.baml
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\MainWindow.baml
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\Project_Window.baml
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\Add_Project.g.cs
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\Detail_Window.g.cs
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\Employee_Stats_Window.g.cs
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\Employee_Window.g.cs
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\MainWindow.g.cs
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\Project_Window.g.cs
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\App.g.cs
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_App_MarkupCompile.cache
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_App.g.resources
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_App.Properties.Resources.resources
+C:\Users\IT15277046\Desktop\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_Applast.csproj.GenerateResource.Cache
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\bin\Debug\OA_App.exe.config
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_App.exe
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_App.pdb
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\bin\Debug\OA_App.exe
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\bin\Debug\OA_App.pdb
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_Applast.csprojResolveAssemblyReference.cache
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\Add_Project.baml
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\Detail_Window.baml
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\Employee_Stats_Window.baml
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\Employee_Window.baml
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\MainWindow.baml
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\Project_Window.baml
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\Add_Project.g.cs
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\Detail_Window.g.cs
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\Employee_Stats_Window.g.cs
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\Employee_Window.g.cs
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\MainWindow.g.cs
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\Project_Window.g.cs
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\App.g.cs
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_App_MarkupCompile.cache
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_App.g.resources
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_App.Properties.Resources.resources
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App\OA_App\obj\Debug\OA_Applast.csproj.GenerateResource.Cache
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\bin\Debug\OA_App.exe.config
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\OA_App.exe
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\OA_App.pdb
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\OA_Applast.csprojResolveAssemblyReference.cache
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Add_Project.baml
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Detail_Window.baml
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Employee_Stats_Window.baml
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Employee_Window.baml
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\MainWindow.baml
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Project_Window.baml
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Add_Project.g.cs
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Detail_Window.g.cs
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Employee_Stats_Window.g.cs
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Employee_Window.g.cs
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\MainWindow.g.cs
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Project_Window.g.cs
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\App.g.cs
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\OA_App_MarkupCompile.cache
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\OA_App.g.resources
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\OA_App.Properties.Resources.resources
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\OA_Applast.csproj.GenerateResource.Cache
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\bin\Debug\OA_App.exe
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_App_WPF\OA_App\bin\Debug\OA_App.pdb
+G:\@ITP Final\ITP_Project 004\OA_App_WPF\OA_App\bin\Debug\OA_App.exe.config
+G:\@ITP Final\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\OA_App.exe
+G:\@ITP Final\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\OA_App.pdb
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\bin\Debug\OA_App.exe.config
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\OA_App.exe
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\OA_App.pdb
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\bin\Debug\OA_App.exe
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\bin\Debug\OA_App.pdb
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\OA_Applast.csprojResolveAssemblyReference.cache
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Add_Project.baml
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Detail_Window.baml
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Employee_Stats_Window.baml
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Employee_Window.baml
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\MainWindow.baml
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Project_Window.baml
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Add_Project.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Detail_Window.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Employee_Stats_Window.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Employee_Window.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\MainWindow.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\Project_Window.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\App.g.cs
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\OA_App_MarkupCompile.cache
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\OA_App.g.resources
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\OA_App.Properties.Resources.resources
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_App_WPF\OA_App\obj\Debug\OA_Applast.csproj.GenerateResource.Cache

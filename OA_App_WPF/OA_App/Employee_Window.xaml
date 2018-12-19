@@ -1,0 +1,81 @@
+﻿<Window x:Class="OA_App.Employee_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Employee_Window" Height="700" Width="1024" WindowStartupLocation="CenterScreen">
+   
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="424"/>
+            <RowDefinition Height="200"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="874"/>
+            <ColumnDefinition Width="150"/>
+        </Grid.ColumnDefinitions>
+        <Image Source="Images\UI\intTemp.jpg" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="1024" Grid.RowSpan="3" Grid.ColumnSpan="2" Margin="-10,-28,0,-70"/>
+
+
+        <Label Content="Project ID" Grid.Column="0" Grid.Row="0"  Margin="20,0,0,11" FontFamily="Arial" FontSize="14" FontWeight="Bold" />
+        <Label Content="Project Name" Grid.Column="0" Grid.Row="0"  Margin="150,0,0,11" FontFamily="Arial" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Project Description" Grid.Column="0" Grid.Row="0"  Margin="374,0,126,11" FontFamily="Arial" FontSize="14" FontWeight="Bold" Grid.ColumnSpan="2"></Label>
+        <Label Content="File" Grid.Column="0" Grid.Row="0"  Margin="624,0,126,11" FontFamily="Arial" FontSize="14" FontWeight="Bold" Grid.ColumnSpan="2"></Label>
+
+        <TextBlock Text="Project ID       :"  Grid.Column="0" Grid.Row="2"  Margin="20,0,0,10" FontFamily="Arial" FontSize="14" FontWeight="Bold" ></TextBlock>
+        <TextBlock Text="Project Name :"  Grid.Column="0" Grid.Row="2"  Margin="20,25,0,0" FontFamily="Arial" FontSize="14" FontWeight="Bold"/>
+        <TextBlock Text="Description    :"  Grid.Column="0" Grid.Row="2"  Margin="20,50,0,0" FontFamily="Arial" FontSize="14" FontWeight="Bold"/>
+        <TextBlock Text="File                  :"  Grid.Column="0" Grid.Row="2"  Margin="20,75,0,0" FontFamily="Arial" FontSize="14" FontWeight="Bold"/>
+        <TextBlock Text="Start Date       :"  Grid.Column="0" Grid.Row="2"  Margin="20,100,0,0" FontFamily="Arial" FontSize="14" FontWeight="Bold"/>
+        <TextBlock Text="End Date        :" Grid.Column="0" Grid.Row="2"  Margin="20,125,0,0" FontFamily="Arial" FontSize="14" FontWeight="Bold"/>
+
+        <TextBlock x:Name="txtId" Text="{Binding Path=Proj_Id}" Grid.Column="0" Grid.Row="2"  Margin="150,0,0,0" FontFamily="Arial" FontSize="14" FontWeight="Bold"></TextBlock>
+        <TextBlock x:Name="txtName" Text="{Binding Path=Proj_Name}" Grid.Column="0" Grid.Row="2"  Margin="150,25,0,0" FontFamily="Arial" FontSize="14" FontWeight="Bold"></TextBlock>
+        <TextBlock x:Name="txtDes" Text="{Binding Path=Proj_Des}" Grid.Column="0" Grid.Row="2"  Margin="150,50,0,0" FontFamily="Arial" FontSize="14" FontWeight="Bold"></TextBlock>
+        <TextBlock x:Name="txtFile" Text="{Binding}" Grid.Column="0" Grid.Row="2"  Margin="150,75,0,0" FontFamily="Arial" FontSize="14" FontWeight="Bold"></TextBlock>
+        <TextBlock x:Name="txtSDate" Text="{Binding Path=Proj_Sdate}" Grid.Column="0" Grid.Row="2"  Margin="150,100,0,0" FontFamily="Arial" FontSize="14" FontWeight="Bold"></TextBlock>
+        <TextBlock x:Name="txtEDate" Text="{Binding Path=Proj_Edate}" Grid.Column="0" Grid.Row="2"  Margin="150,125,0,0" FontFamily="Arial" FontSize="14" FontWeight="Bold"></TextBlock>
+
+
+
+        <Button x:Name="btn_Upload" Content="&#xD;Upload" Grid.Row="1" HorizontalAlignment="Center" Margin="869,28,10,0" VerticalAlignment="Top" Width="145" Height="65" Click="UploadDocument" RenderTransformOrigin="0.438,0.23" BorderThickness="1" FontFamily="Sitka Small" FontSize="14" Grid.ColumnSpan="2"/>
+
+        <Button x:Name="btn_Exit" Content="&#xD;&#xD;Exit " HorizontalAlignment="Center" Margin="864,90,15,0" VerticalAlignment="Top" Width="145" Height="65" Click="btn_Exit_Click_1" RenderTransformOrigin="0.438,0.23" BorderThickness="1" FontFamily="Sitka Small" FontSize="14" Grid.Row="2" Grid.ColumnSpan="2">
+            <Button.Background>
+                <ImageBrush ImageSource="Images/Buttons/btnExit.JPG"/>
+            </Button.Background>
+        </Button> 
+
+
+
+
+        <ListBox x:Name="My_Data_List" ItemsSource="{Binding}" Grid.Row="1" Grid.Column="0" Margin="0,0,10,0" Background="{x:Null}" SelectionChanged="ListSelectionChanged">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                            
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Text="{Binding Path=Proj_Id}" TextAlignment="Center" Background="LightSteelBlue" Width="110" Grid.Row="1" Grid.Column="0"  Margin="5,0,0,0"></TextBlock>
+                        <TextBlock Text="{Binding Path=Proj_Name}" TextAlignment="Center" Background="LightSteelBlue" Grid.Row="1" Width="170" Grid.Column="1" Margin="5,0,0,0"></TextBlock>
+                        <TextBlock Text="{Binding Path=Proj_Des}" TextAlignment="Center" Background="LightSteelBlue" Width="290" Grid.Column="2" Grid.Row="1" Margin="5,0,0,0"></TextBlock>
+                        
+                        <Button x:Name="btn_Download"  Content="Download" Background="Gray" Grid.Column="4" Width="75" Height="35" Margin="150,0,0,0" Click="DownlodFile"></Button>
+                    </Grid>
+
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+
+        </ListBox>
+
+
+
+    </Grid>
+</Window>

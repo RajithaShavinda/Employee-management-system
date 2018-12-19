@@ -1,0 +1,52 @@
+﻿<Window x:Class="OA_App.Detail_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Detail_Window" Height="700" Width="1024" WindowStartupLocation="CenterScreen">
+    <Grid>
+
+
+        <Image Source="Images\UI\intTemp.jpg" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="1024" Margin="-4,-28,-4,-71"/>
+
+        <Label Content="Project ID                   : " HorizontalAlignment="Left" Margin="50,74,0,0" VerticalAlignment="Top"  FontSize="14" FontFamily="Arial" FontWeight="Bold"/>
+        <Label Content="Project Name              : " HorizontalAlignment="Left" Margin="50,127,0,0" VerticalAlignment="Top"  FontSize="14" FontFamily="Arial" FontWeight="Bold"/>
+
+        <Label Content="Project Description   : " HorizontalAlignment="Left" Margin="50,197,0,0" VerticalAlignment="Top"  FontSize="14" FontFamily="Arial" FontWeight="Bold"/>
+
+        <Label Content="Started Date              : " HorizontalAlignment="Left" Margin="50,302,0,0" VerticalAlignment="Top"  FontSize="14" FontFamily="Arial" FontWeight="Bold"/>
+
+
+        <Label Content="End Date                    : " HorizontalAlignment="Left" Margin="50,372,0,0" VerticalAlignment="Top"  FontSize="14" FontFamily="Arial" FontWeight="Bold"/>
+
+        <Label Content="File             : " HorizontalAlignment="Left" Margin="50,533,0,0" VerticalAlignment="Top"  FontSize="14" FontFamily="Arial" FontWeight="Bold"/>
+        <Button x:Name="btn_Back" Content="&#xA;&#xA;Back to Projects" HorizontalAlignment="Center" Margin="870,480,0,0" VerticalAlignment="Top" Width="146" Height="65" Click="btn_Back_Click_1" RenderTransformOrigin="0.438,0.23" BorderThickness="1" FontFamily="Sitka Small" FontSize="14">
+            <Button.Background>
+                <ImageBrush ImageSource="Images/Buttons/btnBack.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btn_Edit" Content="&#xA;&#xA;Edit " HorizontalAlignment="Center" Margin="870,31,2,0" VerticalAlignment="Top" Width="144" Height="65" Click="btn_Edit_Click_1" RenderTransformOrigin="0.438,0.23" BorderThickness="1" FontFamily="Sitka Small" FontSize="14">
+            <Button.Background>
+                <ImageBrush ImageSource="Images/Buttons/btnEdit.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btn_Exit" Content="&#xA;&#xA;Exit " HorizontalAlignment="Center" Margin="871,559,0,0" VerticalAlignment="Top" Width="145" Height="65" Click="btn_Exit_Click_1" RenderTransformOrigin="0.438,0.23" BorderThickness="1" FontFamily="Sitka Small" FontSize="14">
+            <Button.Background>
+                <ImageBrush ImageSource="Images/Buttons/btnExit.jpg"/>
+            </Button.Background>
+        </Button>
+        <TextBlock x:Name="txtProjName" HorizontalAlignment="Left" Margin="257,127,0,0" TextWrapping="Wrap" Text="-----------" VerticalAlignment="Top" Height="33" Width="447" FontSize="14"/>
+        <TextBlock x:Name="txtProjDes" HorizontalAlignment="Left" Margin="257,197,0,0" TextWrapping="Wrap" Text="-----------" VerticalAlignment="Top" Height="82" Width="447" FontSize="14"/>
+        <TextBlock x:Name="txtProjId" HorizontalAlignment="Left" Margin="257,76,0,0" TextWrapping="Wrap" Text="-----------" VerticalAlignment="Top" Height="33" Width="447" FontSize="14"/>
+        <TextBlock x:Name="txtProjSdate" HorizontalAlignment="Left" Margin="259,302,0,0" TextWrapping="Wrap" Text="-----------" VerticalAlignment="Top" Height="33" Width="447" FontSize="14"/>
+        <TextBlock x:Name="txtProjEdate" HorizontalAlignment="Left" Margin="259,372,0,0" TextWrapping="Wrap" Text="-----------" VerticalAlignment="Top" Height="33" Width="447" FontSize="14"/>
+        <Button x:Name="btnDownload" Content="Download" Background="LightSteelBlue" HorizontalAlignment="Left" Margin="257,533,0,0" VerticalAlignment="Top" Width="235" Height="28" Click="btnDownload_Click"/>
+        <Label Content="Employee Name        : " HorizontalAlignment="Left" Margin="50,426,0,0" VerticalAlignment="Top"  FontSize="14" FontFamily="Arial" FontWeight="Bold"/>
+        <TextBlock x:Name="txtEmployeeName" HorizontalAlignment="Left" Margin="259,426,0,0" TextWrapping="Wrap" Text="-----------" VerticalAlignment="Top" Height="33" Width="447" FontSize="14"/>
+        <Label Content="Current Status            : " HorizontalAlignment="Left" Margin="46,480,0,0" VerticalAlignment="Top"  FontSize="14" FontFamily="Arial" FontWeight="Bold"/>
+        <TextBlock x:Name="txtStatus" HorizontalAlignment="Left" Margin="259,480,0,0" TextWrapping="Wrap" Text="-----------" VerticalAlignment="Top" Height="33" Width="447" FontSize="14"/>
+
+
+
+    </Grid>
+    
+    
+</Window>

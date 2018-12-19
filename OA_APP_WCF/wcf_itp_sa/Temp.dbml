@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ITP2016" Class="TempDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=SQLSERVERSLIITC;Initial Catalog=ITP2016;Persist Security Info=True;User ID=sa" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="ITP2016ConnectionString2" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Item_IT15277046_tb" Member="Item_IT15277046_tbs">
+    <Type Name="Item_IT15277046_tb">
+      <Column Name="Item_Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Item_Name" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="Item_Des" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Item_Price" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="Item_Image" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

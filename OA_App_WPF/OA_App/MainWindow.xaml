@@ -1,0 +1,28 @@
+﻿<Window x:Class="OA_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="480" Width="720" WindowStartupLocation="CenterScreen">
+    <Grid>
+
+        <Image Source="Images\UI\LogIn.jpg" HorizontalAlignment="Left" Height="449" VerticalAlignment="Top" Width="712" Stretch="Fill"/>
+        <Label Content="User Name : " HorizontalAlignment="Left" Margin="251,176,0,0" VerticalAlignment="Top"/>
+        <Label Content="Password : " HorizontalAlignment="Left" Margin="251,222,0,0" VerticalAlignment="Top"/>
+
+        <TextBox x:Name="txtUname" HorizontalAlignment="Left" Height="24" Margin="348,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="217" KeyDown="txtUname_KeyDown"/>
+        <PasswordBox x:Name="txtpassword" HorizontalAlignment="Left" Height="24" Margin="348,224,0,0" VerticalAlignment="Top" Width="217" KeyDown="txtpassword_KeyDown"/>
+
+        <Button x:Name="btn_LogIn" Content="Log in" HorizontalAlignment="Left" Margin="389,284,0,0" VerticalAlignment="Top" Width="115" Height="41" Click="btn_LogIn_Click_1" FontSize="14" FontWeight="Bold" Padding="1" FontFamily="Arial">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFFDF3C5" Offset="0"/>
+                    <GradientStop Color="#FFF9E89C" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+
+        </Button>
+
+
+
+
+    </Grid>
+</Window>

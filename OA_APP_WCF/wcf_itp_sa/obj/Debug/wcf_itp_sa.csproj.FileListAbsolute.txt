@@ -1,0 +1,94 @@
+c:\users\it13020040\documents\visual studio 2012\Projects\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.dll
+c:\users\it13020040\documents\visual studio 2012\Projects\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.pdb
+c:\users\it13020040\documents\visual studio 2012\Projects\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.csprojResolveAssemblyReference.cache
+c:\users\it13020040\documents\visual studio 2012\Projects\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+c:\users\it13020040\documents\visual studio 2012\Projects\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb
+E:\2-2 Labs\ITP2016\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.dll
+E:\2-2 Labs\ITP2016\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.pdb
+E:\2-2 Labs\ITP2016\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.csprojResolveAssemblyReference.cache
+E:\2-2 Labs\ITP2016\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+E:\2-2 Labs\ITP2016\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb
+C:\Users\IT15277046\Desktop\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.dll
+C:\Users\IT15277046\Desktop\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.pdb
+C:\Users\IT15277046\Desktop\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+C:\Users\IT15277046\Desktop\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb
+C:\Users\IT15277046\Desktop\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.csprojResolveAssemblyReference.cache
+C:\Users\IT15277046\Desktop\ITP LAB NO08\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.dll
+C:\Users\IT15277046\Desktop\ITP LAB NO08\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.pdb
+C:\Users\IT15277046\Desktop\ITP LAB NO08\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.csprojResolveAssemblyReference.cache
+C:\Users\IT15277046\Desktop\ITP LAB NO08\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+C:\Users\IT15277046\Desktop\ITP LAB NO08\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb
+C:\Users\it15277046\Desktop\WorkFiles\ITP LAB NO08\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+C:\Users\it15277046\Desktop\WorkFiles\ITP LAB NO08\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb
+C:\Users\it15277046\Desktop\WorkFiles\ITP LAB NO08\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.dll
+C:\Users\it15277046\Desktop\WorkFiles\ITP LAB NO08\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.pdb
+C:\Users\it15277046\Desktop\WorkFiles\ITP LAB NO08\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.csprojResolveAssemblyReference.cache
+C:\Users\it15277046\Desktop\WorkFiles\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.dll
+C:\Users\it15277046\Desktop\WorkFiles\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.pdb
+C:\Users\it15277046\Desktop\WorkFiles\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.csprojResolveAssemblyReference.cache
+C:\Users\it15277046\Desktop\WorkFiles\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+C:\Users\it15277046\Desktop\WorkFiles\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb
+C:\Users\it15281142.STD\Desktop\WorkFiles\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.dll
+C:\Users\it15281142.STD\Desktop\WorkFiles\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.pdb
+C:\Users\it15281142.STD\Desktop\WorkFiles\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.csprojResolveAssemblyReference.cache
+C:\Users\it15281142.STD\Desktop\WorkFiles\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+C:\Users\it15281142.STD\Desktop\WorkFiles\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb
+E:\WorkFiles1\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.csprojResolveAssemblyReference.cache
+E:\WorkFiles1\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.dll
+E:\WorkFiles1\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.pdb
+E:\WorkFiles1\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+E:\WorkFiles1\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb
+C:\Users\it15281142\Desktop\WorkFiles2\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.dll
+C:\Users\it15281142\Desktop\WorkFiles2\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.pdb
+C:\Users\it15281142\Desktop\WorkFiles2\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.csprojResolveAssemblyReference.cache
+C:\Users\it15281142\Desktop\WorkFiles2\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+C:\Users\it15281142\Desktop\WorkFiles2\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb
+C:\Users\IT15277046\Desktop\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.dll
+C:\Users\IT15277046\Desktop\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.pdb
+C:\Users\IT15277046\Desktop\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.csprojResolveAssemblyReference.cache
+C:\Users\IT15277046\Desktop\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+C:\Users\IT15277046\Desktop\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.dll
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.pdb
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.csprojResolveAssemblyReference.cache
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+C:\Users\IT15277046\Desktop\TempWorkFile\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.csprojResolveAssemblyReference.cache
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.dll
+C:\Users\IT15277046\Desktop\NewWorkFile\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.pdb
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.dll
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.pdb
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.csprojResolveAssemblyReference.cache
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+C:\Users\it15277046\Desktop\NewWorkFile001\WorkFiles3\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.dll
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\bin\wcf_itp_sa.pdb
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.csprojResolveAssemblyReference.cache
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+C:\Users\Shavinda Dizzanayake\Desktop\NewWorkFile002\ITP LAB 07 WCF\wcf_itp_sa\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb
+C:\Users\it15277046\Desktop\ITP_Project 003\ITP LAB 07 WCF\wcf_itp_sa\bin\wcf_itp_sa.dll
+C:\Users\it15277046\Desktop\ITP_Project 003\ITP LAB 07 WCF\wcf_itp_sa\bin\wcf_itp_sa.pdb
+C:\Users\it15277046\Desktop\ITP_Project 003\ITP LAB 07 WCF\wcf_itp_sa\obj\Debug\wcf_itp_sa.csprojResolveAssemblyReference.cache
+C:\Users\it15277046\Desktop\ITP_Project 003\ITP LAB 07 WCF\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+C:\Users\it15277046\Desktop\ITP_Project 003\ITP LAB 07 WCF\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\ITP LAB 07 WCF\wcf_itp_sa\bin\wcf_itp_sa.dll
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\ITP LAB 07 WCF\wcf_itp_sa\bin\wcf_itp_sa.pdb
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\ITP LAB 07 WCF\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 003\ITP LAB 07 WCF\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\ITP LAB 07 WCF\wcf_itp_sa\bin\wcf_itp_sa.dll
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\ITP LAB 07 WCF\wcf_itp_sa\bin\wcf_itp_sa.pdb
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\ITP LAB 07 WCF\wcf_itp_sa\obj\Debug\wcf_itp_sa.csprojResolveAssemblyReference.cache
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\ITP LAB 07 WCF\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\ITP LAB 07 WCF\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_APP_WCF\wcf_itp_sa\obj\Debug\wcf_itp_sa.csprojResolveAssemblyReference.cache
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_APP_WCF\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_APP_WCF\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_APP_WCF\wcf_itp_sa\bin\wcf_itp_sa.dll
+D:\BSC IN IT\2 nd year\2nd semester\ITP\Project\ITP_Project 004\OA_APP_WCF\wcf_itp_sa\bin\wcf_itp_sa.pdb
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_APP_WCF\wcf_itp_sa\bin\wcf_itp_sa.dll
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_APP_WCF\wcf_itp_sa\bin\wcf_itp_sa.pdb
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_APP_WCF\wcf_itp_sa\obj\Debug\wcf_itp_sa.csprojResolveAssemblyReference.cache
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_APP_WCF\wcf_itp_sa\obj\Debug\wcf_itp_sa.dll
+C:\Users\Shavinda Dizzanayake\Desktop\ITP_Project 004\OA_APP_WCF\wcf_itp_sa\obj\Debug\wcf_itp_sa.pdb

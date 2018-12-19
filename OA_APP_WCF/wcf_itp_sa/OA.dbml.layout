@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="OA">
+  <DataContextMoniker Name="/OADataContext" />
+  <nestedChildShapes>
+    <classShape Id="a42382dc-abd3-4fe8-8efa-f0cb59ffa3c9" absoluteBounds="0.75, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/OADataContext/Employee_Table" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cfc4f819-3890-4e48-8c1e-b2c2e21ff5fb" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="895fe5fc-2b03-4135-8904-3493466db412" absoluteBounds="3.75, 0.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/OADataContext/Project_Table_New" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b5a5a05f-789c-4326-a4a8-00618898e6c9" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f0dfca62-55b4-4553-8207-6ede22b562f9" absoluteBounds="0.75, 3.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/OADataContext/UserLogin_Table" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9f45ece5-9072-4410-af55-f91037a8369c" absoluteBounds="0.765, 4.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
